@@ -9,7 +9,7 @@ Este repositório contém um relatório interativo desenvolvido no Microsoft Pow
 
 Microsoft Power BI: Construção do dashboard e visualização de dados.
 
-Power Query (M Language): Tratamento, limpeza e modelagem dos dados (ETL).
+Power Query (ETL): Tratamento, limpeza e modelagem dos dados (ETL).
 
 ---
 
